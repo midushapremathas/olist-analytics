@@ -90,7 +90,9 @@ olist-analytics/
 │   ├── data_profile.md
 │   └── schema.md
 ├── notebooks/
+│   └── 01_delivery_impact.py
 ├── outputs/
+│   └── delivery_delay_vs_review_score.png
 ├── sql/
 │   ├── 02_create_orders_clean.sql
 │   ├── 03_q1_delivery_impact.sql
