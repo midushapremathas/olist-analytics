@@ -103,17 +103,3 @@ olist-analytics/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-
-### 3. Seller Performance
-
-- 3,095 sellers were present in the dataset.
-
-- 2,970 sellers had matched orders in the cleaned delivery dataset.
-
-- 425 sellers had at least 50 orders and were used for the main seller performance analysis.
-
-- These sellers had an average late-delivery rate of 7.82% and a median of 6.83%.
-
-- 114 sellers were classified as underperforming, representing 26.82% of sellers with 50+ orders.
-
-- These underperforming sellers accounted for 21,443 affected orders and R$2,785,277.65 in revenue.
